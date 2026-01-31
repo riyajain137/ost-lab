@@ -1,1 +1,1 @@
-# ost-lab
+# This readme is for open-source tech lab
